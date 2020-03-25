@@ -1,0 +1,6 @@
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\bin\Debug\Problème scientifique informatique.exe.config
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\bin\Debug\Problème scientifique informatique.exe
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\bin\Debug\Problème scientifique informatique.pdb
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\obj\Debug\Problème scientifique informatique.csprojAssemblyReference.cache
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\obj\Debug\Problème scientifique informatique.exe
+D:\Cours\A2\Informatique\Problème scientifique informatique\Problème scientifique informatique\Problème scientifique informatique\obj\Debug\Problème scientifique informatique.pdb
